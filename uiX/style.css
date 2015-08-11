@@ -12,11 +12,10 @@ QMdiArea {
 }
 
 AutomationEditor {
-	background-color: #000;
+	background-color: #111111;
 	color: #CCC5C4;
-	qproperty-vertexColor: #ff77af;
-	qproperty-gridColor: #808080;
-	
+	qproperty-vertexColor: #CC0000;
+	qproperty-gridColor: #615D5D;
 	qproperty-graphColor: rgba(204, 197, 196, 75);
 	qproperty-scaleColor: #333131;
 }
@@ -102,10 +101,10 @@ QMenu::indicator:selected {
 }
 
 PianoRoll {
-	background-color: #333131;
+	background-color: #111111;
 	qproperty-gridColor: #615D5D;
-	qproperty-noteModeColor: #fff;
-	qproperty-noteColor: #fff;
+	qproperty-noteModeColor: #e3e3e3;
+	qproperty-noteColor: #e3e3e3;
 	qproperty-barColor: #c9c9c9;
 }
 
