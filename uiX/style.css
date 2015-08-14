@@ -519,8 +519,8 @@ bbTCOView {
 /* Plugins */
 
 TripleOscillatorView knob {
-	color: rgb(1, 32, 64);
-	qproperty-outerColor: rgb(0, 0, 0);
+	color: #fff;
+	qproperty-outerColor: #fff;
 	qproperty-innerRadius: 2;
 	qproperty-outerRadius: 7;
 	qproperty-centerPointX: 13.0;
