@@ -9,6 +9,7 @@ Shit that needs to be done:
 * Fix knob1.png
 * Redesign the stepper
 * Redesign the combo-box
+* Redesign the oscilloscope
 
 A bit unrelated but:
 
