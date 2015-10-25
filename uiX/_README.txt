@@ -1,5 +1,6 @@
-Most of the UI icons are by RebeccaDeField:
-https://github.com/RebeccaDeField
-http://rebeccadefield.com/image/fulllmmsiconset
+Current UI icons were originally by Rebecca DeField, but Umcaruje redid a lot of them to make them pixel perfect.
+Most of the CSS work was done by Punch.
 
-If it wasn't done by Rebecca or Umcaruje, it was done by Punch.
+github.com/RebeccaDeField
+github.com/umcaruje
+github.com/stakeoutpunch
