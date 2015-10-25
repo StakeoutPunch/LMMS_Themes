@@ -491,14 +491,14 @@ TrackContainerView QLabel
 
 /* instrument pattern */
 PatternView {
-	color: #62A4B3;
+	color: #39d861;
 	qproperty-fgColor: #e3e3e3;
 	qproperty-textColor: #e3e3e3;
 }
 
 /* sample track pattern */
 SampleTCOView {
-	color: #3FD771;
+	color: #39d861;
 	qproperty-fgColor: #e3e3e3;
 	qproperty-textColor: #e3e3e3;	
 }
@@ -512,7 +512,7 @@ AutomationPatternView {
 
 /* bb-pattern */
 bbTCOView {
-	color: #6C9993; /* default colour for bb-tracks, used when the colour hasn't been defined by the user */
+	color: #39d861; /* default colour for bb-tracks, used when the colour hasn't been defined by the user */
 	qproperty-textColor: #e3e3e3;
 }
 
